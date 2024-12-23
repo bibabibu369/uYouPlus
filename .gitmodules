@@ -65,4 +65,7 @@
 	url = https://github.com/PoomSmart/YouTube-X/
 [submodule "Tweaks/YouGroupSettings"]
 	path = Tweaks/YouGroupSettings
-	url = git@github.com:PoomSmart/YouGroupSettings.git
+	url = https://github.com/PoomSmart/YouGroupSettings
+[submodule "Tweaks/YouSpeed"]
+	path = Tweaks/YouSpeed
+	url = https://github.com/PoomSmart/YouSpeed
