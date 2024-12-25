@@ -44,7 +44,7 @@
 - **Compatibility:** Requires iOS/iPadOS 14.0 or later.
 
 <details>
-  <summary>Version information (last updated: Dec 22, 2024)</summary>
+  <summary>Version information (last updated: Dec 25, 2024)</summary>
 
 | **Tweaks/App** | **Developer** | **Version** | **Open source** |
 | - | - | :-: | :-:  |
@@ -59,19 +59,19 @@
 | **YTSpeed** | [Lyvendia](https://github.com/Lyvendia) | 1.0.1 | [✔︎](https://github.com/Lyvendia/YTSpeed) |
 | **Alderis Color Picker** | [HASHBANG Productions](https://github.com/hbang) | 1.2.3 | [✔︎](https://github.com/hbang/Alderis) |
 | **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.5.6 | [✔︎](https://github.com/PoomSmart/YTUHD) |
-| **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.9.0 | [✔︎](https://github.com/PoomSmart/YouPiP) |
+| **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.10.0 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 | **YTABConfig** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.6 | [✔︎](https://github.com/PoomSmart/YTABConfig) |
 | **YTReExplore** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.2 | [✔︎](https://github.com/PoomSmart/YTReExplore) |
 | **NoYTPremium** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.4 | [✔︎](https://github.com/PoomSmart/NoYTPremium) |
 | **YTNoPaidPromo** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.0 | [✔︎](https://github.com/PoomSmart/YTNoPaidPromo) |
 | **YouRememberCaption** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.0 | [✔︎](https://poomsmart.github.io/repo/depictions/youremembercaption.html) |
 | **Return YouTube Dislike** | [PoomSmart](https://twitter.com/poomsmart) | 1.13.1 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
-| **YouMute** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.4 | [✔︎](https://github.com/PoomSmart/YouMute) |
-| **YouQuality** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.2 | [✔︎](https://github.com/PoomSmart/YouQuality) |
+| **YouMute** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.0 | [✔︎](https://github.com/PoomSmart/YouMute) |
+| **YouQuality** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.0 | [✔︎](https://github.com/PoomSmart/YouQuality) |
 | **YouTube-X** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.6 | [✔︎](https://github.com/PoomSmart/YouTube-X) |
-| **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.0 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
+| **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 2.0.0 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
 | **YouGroupSettings** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.3 | [✔︎](https://github.com/PoomSmart/YouGroupSettings) |
-| **YouSpeed** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.1 | [✔︎](https://github.com/PoomSmart/YouSpeed) |
+| **YouSpeed** | [PoomSmart](https://twitter.com/poomsmart) | 1.1.0 | [✔︎](https://github.com/PoomSmart/YouSpeed) |
 
 </details>
 
